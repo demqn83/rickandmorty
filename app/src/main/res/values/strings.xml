@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RickAndMorty</string>
+    <string name="fail_download">Прроблема с загрузкой. Попробуйте позже.</string>
+    <string name="try_again">Попробовать снова</string>
+    <string name="data_loading_error">Ошибка загрузки данных</string>
+    <string name="character_name">Имя персонажа</string>
+    <string name="location">Местоположение:</string>
+    <string name="species">Вид:</string>
+    <string name="status">Статус</string>
+    <string name="list_episodes">Список эпизодов</string>
+</resources>

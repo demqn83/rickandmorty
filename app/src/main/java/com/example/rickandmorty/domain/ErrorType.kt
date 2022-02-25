@@ -1,0 +1,7 @@
+package com.example.rickandmorty.domain
+
+enum class ErrorType {
+    NO_CONNECTION,
+    SERVICE_UNAVAILABLE,
+    GENERIC_ERROR
+}
